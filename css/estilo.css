@@ -1,0 +1,42 @@
+
+        body {
+            position: relative;
+        }
+
+        #home {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: rgb(66, 30, 229);
+        }
+
+        #objetivos {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #673ab7;
+        }
+
+        #curriculum {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #17698a;
+        }
+
+        #formulario {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #7ab7be;
+        }
+
+        #rodape {
+            text-align: center;
+            background-color: hsl(187, 30%, 78%); 
+        }
+/*
+    html {
+        scroll-behavior: smooth;
+    }
+*/
